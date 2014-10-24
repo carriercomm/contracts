@@ -11,11 +11,11 @@ It is plausibly not of general interest! But if you'd care to open an issue or s
    ``` 
    $ git clone https://github.com/dxw/contracts.git
    ```
-2. Run bundle:
+2. Install, if necessary, and run bundle:
    
    ```
    $ cd contracts
-   $ bundle
+   $ bundle || gem install bundle && bundle
    ```
 
    Kramdown should be installed.
