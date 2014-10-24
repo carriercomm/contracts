@@ -2,8 +2,8 @@
 
 1. ### Parties
 
-    1.  This agreement is between The Dextrous Web Ltd, a company
-        registered in England and Wales under number 6617101, trading as
+    1.  This agreement is between the Open Knowledge Foundation, a company
+        registered in England and Wales under number 05133759, trading as
         "OKF", and the organisation or person specified on the order
         summary accompanying this document.
 
