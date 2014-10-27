@@ -47,4 +47,6 @@ To make your own agreements, or add a new one, create a Markdown file in the agr
 2. ### The next section
 ```
 
-The Markdown library we're using is Kramdown, because it has a more feature-rich syntax. There's a [kramdown.gettalong.org/quickref.html](quick reference) if you need it.
+The Markdown library we're using is Kramdown, because it has a more
+feature-rich syntax. There's a [Quick Reference Guide](kramdown.gettalong.org/quickref.html)
+if you need it.
