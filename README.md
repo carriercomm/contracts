@@ -48,5 +48,5 @@ To make your own agreements, or add a new one, create a Markdown file in the agr
 ```
 
 The Markdown library we're using is Kramdown, because it has a more
-feature-rich syntax. There's a [Quick Reference Guide](kramdown.gettalong.org/quickref.html)
+feature-rich syntax. There's a [Quick Reference Guide](http://kramdown.gettalong.org/quickref.html)
 if you need it.
