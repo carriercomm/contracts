@@ -192,4 +192,18 @@
         agreement between us with respect to the Work, and replaces any prior oral or
         written agreement which may exist.
 
+18. ### Severance
+
+    1.  If any court of competent authority finds that any provision
+        of this agreement (or part of any provision) is invalid, illegal,
+        or unenforceable, that provision or part-provision shall, to the
+        extent required, be deemed to be deleted, and the validity and
+        enforceability of the other provisions of this agreement shall not
+        be affected.  
+    2.  If any invalid, unenforceable or illegal provision of this
+        agreement would be valid, enforceable and legal if some part of it
+        were to be deleted, the parties shall negotiate in good faith to
+        amend such provision such that, as amended, it is legal, valid and
+        enforceable, and to the greatest extent possible, achieves the
+        parties’ original commercial intention.
 
