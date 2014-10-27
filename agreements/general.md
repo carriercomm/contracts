@@ -92,7 +92,11 @@
         any such failure. OKF can work with you to design or implement
         such measures at your request for an agreed fee.
     6.  Nothing in this agreement should be read as excluding our
-        liability for death or personal injury caused by our negligence.
+        liability for:
+            1.  Death or personal injury caused by our negligence
+            2.  Fraud or fraudulent misrepresentation; or
+            3.  Any matter for which it would be unlawful for the
+                parties to exclude liability.
     7.  In any event, OKF's total aggregate liability in contract, tort,
         misrepresentation, restitution, breach of statutory duty or
         otherwise, arising out of or in connection with this agreement 
