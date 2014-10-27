@@ -148,7 +148,6 @@
     1.  OKF will issue invoices for the Work on completion, or at intervals
         as described in the proposal.
     2.  Invoices are payable within 14 days.
-        enacted provisions of the Late Payment of Commercial Debts (Interest) Act.
     3.  You shall make payment by BACS transfer or (if agreed in advance with OKF)
         credit or debit card. OKF does not accept cheques.
     4.  Credit and debit card payments are subject to a 2.5% fee.
