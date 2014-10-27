@@ -83,16 +83,20 @@
     1.  OKF cannot guarantee perfect reliability.
     2.  OKF will deliver Work that is as robust and reliable as is
         reasonably practical.
-    4.  OKF will not be liable for any loss of profits or reputation
-        that you suffer, directly or indirectly, as a consequence of the Work.
+    4.  OKF will not be liable for any loss of profits, revenue,
+        turnover, business, pure economic loss; loss of reputation, 
+        and/or goodwill that you suffer, directly or indirectly, as 
+        a consequence of the Work.
     5.  You agree that it is your responsibility to ensure that you put
         in place measures that make you able to operate in the event of
         any such failure. OKF can work with you to design or implement
         such measures at your request for an agreed fee.
     6.  Nothing in this agreement should be read as excluding our
         liability for death or personal injury caused by our negligence.
-    7.  In any event, OKF's total liability under this agreement is
-        limited to the lesser of:
+    7.  In any event, OKF's total aggregate liability in contract, tort,
+        misrepresentation, restitution, breach of statutory duty or
+        otherwise, arising out of or in connection with this agreement 
+        is limited to the lesser of:
 
         1. The total cost of the Work.
         2. The insured sum.
