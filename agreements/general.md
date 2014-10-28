@@ -83,24 +83,21 @@
     1.  OKF cannot guarantee perfect reliability.
     2.  OKF will deliver Work that is as robust and reliable as is
         reasonably practical.
-    4.  OKF will not be liable for any loss of profits, revenue,
-        turnover, business, pure economic loss; loss of reputation, 
-        and/or goodwill that you suffer, directly or indirectly, as 
-        a consequence of the Work.
+    4.  OKF will not be liable for:
+    	    1.   any loss of business, profits or any other form of purely
+    	         economic loss;
+	    2.	 loss of reputation, 
+        that arising, directly or indirectly, out of this agreement.
     5.  You agree that it is your responsibility to ensure that you put
         in place measures that make you able to operate in the event of
-        any such failure. OKF can work with you to design or implement
+        any failure in operation of the work. OKF can work with you to design or implement
         such measures at your request for an agreed fee.
     6.  Nothing in this agreement should be read as excluding our
         liability for:
-            1.  Death or personal injury caused by our negligence
-            2.  Fraud or fraudulent misrepresentation; or
-            3.  Any matter for which it would be unlawful for the
-                parties to exclude liability.
-    7.  In any event, OKF's total aggregate liability in contract, tort,
-        misrepresentation, restitution, breach of statutory duty or
-        otherwise, arising out of or in connection with this agreement 
-        is limited to the lesser of:
+            1.  Death or personal injury caused by our negligence; or
+            2.  Fraud or fraudulent misrepresentation.
+    7.  In any event, OKF's total liability (whatever the cause of action) arising out of 
+    	this agreement is limited to the lesser of:
 
         1. The total cost of the Work.
         2. The insured sum.
@@ -170,11 +167,14 @@
     4.  This clause does not apply if it would violate the terms of a
         framework agreement of which this agreement forms a part.
 
+13. ### Third party rights
+
+    1.  Nothing in this agreement is intended to confer rights on anyone other than you or OKF.
+
 14. ### Proper law
 
-    1.  This agreement is governed by English law and the parties agree
-        that any disputes arising from the agreement will be subject to
-        the exclusive jurisdiction of the courts of England and Wales.
+    1.  This agreement is governed by English law and any disputes arising from the agreement 
+    	will be subject to the exclusive jurisdiction of the courts of England and Wales.
 
 15. ### Email
 
@@ -196,16 +196,7 @@
 
 18. ### Severance
 
-    1.  If any court of competent authority finds that any provision
-        of this agreement (or part of any provision) is invalid, illegal,
-        or unenforceable, that provision or part-provision shall, to the
-        extent required, be deemed to be deleted, and the validity and
-        enforceability of the other provisions of this agreement shall not
-        be affected.  
-    2.  If any invalid, unenforceable or illegal provision of this
-        agreement would be valid, enforceable and legal if some part of it
-        were to be deleted, the parties shall negotiate in good faith to
-        amend such provision such that, as amended, it is legal, valid and
-        enforceable, and to the greatest extent possible, achieves the
-        parties’ original commercial intention.
+    1.  If any court finds that any part of this agreement is unenforceable 
+    	the remainder of the contract shall be unaffected and shall be read as if the unenforceable
+	part had been deleted.
 
