@@ -67,7 +67,6 @@
 
     1.  At OKF's sole discretion, freelancers or contractors may be used
         in place of OKF employees in order to complete some or all of the Work.
-    2.  OKF will not outsource the Work without your prior agreement, which
         must not be unreasonably withheld or delayed.
 
 7. ### Quality
